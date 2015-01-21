@@ -14,7 +14,7 @@ links:
   - name:         About
     url:          /about
     external:     true
-  - name:         contact
+  - name:         Contact
     url:          /contact
   - name:         Chinese
     url:          /chinese
