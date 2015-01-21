@@ -7,15 +7,17 @@ facebook_appid:   # appid for like button, remove from /_includes/share.html if 
 google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
 links:
+  - name:         Home
+    url:          /
+  - name:     Services
+    url:          /services
   - name:         About
     url:          /about
     external:     true
-  - name:         Email
-    url:          mailto:doremi.hu@gmail.com
-    external:     true
-  - name:         GitHub
-    url:          http://github.com/zdlopez
-    external:     true
+  - name:         contact
+    url:          /contact
+  - name:         Chinese
+    url:          /chinese
 highlighter:      pygments
 permalink:        pretty
 markdown:         redcarpet
