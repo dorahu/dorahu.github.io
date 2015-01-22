@@ -8,4 +8,4 @@ Dora Hu is Licensed Clinical Social Worker offering private practice in the grea
 Reach out to Dora to set an appointment for intake:
 
 Phone:  xxx-xxx-xxxx
-Email:  Doremi.Hu@gmail.com
+Email:  DoraHuMFT@gmail.com
