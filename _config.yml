@@ -13,7 +13,6 @@ links:
     url:          /services
   - name:         About
     url:          /about
-    external:     true
   - name:         Contact
     url:          /contact
   - name:         Chinese
